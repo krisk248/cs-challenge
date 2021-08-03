@@ -12,6 +12,9 @@ If you're having issues with getting the challenge running, try running a build 
 ▶ docker-compose up
 
 ```
+Recommended OS:
+
+Linux
 
 You should then be able to access the challenge at http://localhost:5000/. If you have any questions you can reach
 us at crowdsource@detectify.com.
